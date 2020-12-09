@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+    background-size: auto;
+}
+.content1 a.judul{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.content2 a.judul{
+    color: yellow;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.content3 a.judul{
+    color: green;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.content4 a.judul{
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.allContent p.deskripsi{
+    text-align: justify;
+}
+.allContent p.deskripsi a{
+    text-decoration: none;
+}
+
+a.tmbData{
+    text-decoration: none;
+    text-transform: capitalize;
+}
+table thead tr{
+    background-color: red;
+}
